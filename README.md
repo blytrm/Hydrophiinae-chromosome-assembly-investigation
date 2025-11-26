@@ -1,2 +1,2 @@
 # Hydrophiinae-chromosome-quality-assessment
-Assessment of the chromosome 2's quality in Hydrophiinae sea snakes, following suspected misassemblies, to justify genome reassembly.
+Investigation into the accuracy and reliability of a sea snake subfamilia's genome assembly was propagated following identification of haploid coverage (and suspected misassemblies with the Z chromosome) in parts of Hydrophis major's chromosome 2, this theme was observed to be prevalent across Hydrophiinae. Consequently, revision of publicly-avaliable genomic resources was imperative, motivating the re-assembly of enhanced chromosome-level genomes.
