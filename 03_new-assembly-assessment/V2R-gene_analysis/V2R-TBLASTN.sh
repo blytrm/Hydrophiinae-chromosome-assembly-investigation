@@ -16,4 +16,4 @@ tblastn -query "${QUERY}" -db "${NEW_REF}" -out "new.7tm.tblastn.outfmt6" -outfm
 tblastn -query "${QUERY}" -db "${OLD_REF}" -out "old.7tm.tblastn.outfmt6" -outfmt 6 -num_threads 16 &
 wait
 
-echo "OLD assembly complete!"
+echo "Complete!"
