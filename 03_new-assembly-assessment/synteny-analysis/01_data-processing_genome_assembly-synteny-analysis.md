@@ -1,6 +1,6 @@
 # Google Cloud Shell: Syntenic Visualisation of Whole-Genome Alignments to Compare an Old and New Assembly
 
-**Org = Hydrophis major**
+**Hydrophis major**
 
 ## Whole Chromosome-level Genome Assembly Synteny Plot
 
