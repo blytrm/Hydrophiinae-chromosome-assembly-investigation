@@ -25,8 +25,6 @@ Required input files from preprocessing:
 ## Visualization
 
 ### Main Plot: All Chromosomes
-
-![Full Synteny Plot](synteny_plot.png)
 *Complete synteny plot showing all chromosomes with rainbow-coloured links and orange V2R annotations*
 
 ![Full Synteny Plot v2](wg-synteny.png)
