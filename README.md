@@ -1,4 +1,4 @@
 # Hydrophiinae-chromosome-quality-assessment
 Investigation into the accuracy and reliability of a sea snake subfamilia's genome assembly was propagated following identification of haploid coverage (and suspected misassemblies with the Z chromosome) in parts of Hydrophis major's chromosome 2; this theme was observed to be prevalent across Hydrophiinae. Consequently, revision of publicly available genomic resources was imperative, motivating the re-assembly of enhanced chromosome-level genomes.
 
-![Poster](optimising_genome_assembly.pdf)
+![Poster](poster.png)
