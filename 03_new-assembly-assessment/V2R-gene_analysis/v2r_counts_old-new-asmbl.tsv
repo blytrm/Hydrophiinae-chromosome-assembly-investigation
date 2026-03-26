@@ -1,19 +1,19 @@
-Chromosome	Count: Old Genome Assembly	Count: New Genome Assembly
-1	68	89
-2	556	570
-3	1	24
-4	10	70
-5	0	19
-6	3	0
-7	1	3
-8	9	42
-9	0	15
-10	2	7
-11	0	0
-12	32	13
-13	0	0
-14	0	0
-15	55	55
-16	0	0
-Z	172	426
-Genome	2253	2370
+Chromosome	Count: New Genome Assembly
+1	89
+2	570
+3	24
+4	70
+5	19
+6	0
+7	3
+8	42
+9	15
+10	7
+11	0
+12	13
+13	0
+14	0
+15	55
+16	0
+Z	426
+Genome	2370
