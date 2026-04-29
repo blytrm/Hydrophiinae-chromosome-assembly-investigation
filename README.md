@@ -3,4 +3,3 @@ Investigation into the accuracy and reliability of a sea snake subfamilia's geno
 
 https://medium.com/@billyt13/parameter-driven-refinement-of-a-sea-snake-genome-assembly-enhances-structural-accuracy-and-enables-715b5c2ecf95
 
-![Poster](poster.png)
